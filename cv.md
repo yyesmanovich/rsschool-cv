@@ -26,3 +26,14 @@ I cannot boast of having technical skills, since I have occupied managerial posi
 * Resource management;
 * Composing process documentation;
 * Release management
+
+## Education
+
+* Minsk State Linguistic University: Teacher of English and German, Belarusian Language and Literature
+* Minsk State Linguistic University: Master of Translation: English and German
+* Swedish Language: Teacher and Translator
+* EPAM: Introduction to Management Program
+
+## English 
+
+Officially assessed at EPAM as C2. Working with English-speaking customers every day since 2013. Before 2013 refer to [my education](#education). 
