@@ -1,0 +1,25 @@
+* {
+    font-family: 'Titillium Web', 'Times New Roman', Times, serif;
+    background-color: lavender;
+}
+
+img {
+    height: auto; 
+    width: auto; 
+    max-height: 250px;
+    border-radius: 20px;
+}
+
+.wrapper {
+    max-width: 1024px;
+    margin: auto;
+    color: midnightblue; 
+
+}
+ul {
+    list-style-type: square;
+}
+
+.header {
+    border-bottom: 0.2px solid midnightblue;
+}
